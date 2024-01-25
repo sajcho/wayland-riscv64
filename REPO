@@ -1,0 +1,12 @@
+d:babl
+d:python3-markupsafe
+d:gegl
+f:6cdc24fecc99592f883f5a3ffc8a4f3a:babl/Pkgfile
+f:cfd1ef8ad6337a2a927f5170f8ac7cc4:babl/.footprint
+f:6217c26a31494d24dd3d8823e82b1928:babl/.signature
+f:02c3d3eefebc0ff5535b09000dbd0658:python3-markupsafe/Pkgfile
+f:f3009470c7002a8825d02087471b0036:python3-markupsafe/.footprint
+f:8422c21339b095311c08351796022be8:python3-markupsafe/.signature
+f:f28e133d7e5f5bba371ff5de7f57c09b:gegl/Pkgfile
+f:13b42a9dc4ae2a7bdd820a1721148af6:gegl/.footprint
+f:487e573cf3007d73931dc20a75dd5d29:gegl/.signature
