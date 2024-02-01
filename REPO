@@ -1,6 +1,14 @@
+d:firefox
 d:babl
 d:python3-markupsafe
 d:gegl
+f:cf6971669f70b440cb6ff8df8b2722ae:firefox/firefox.desktop
+f:992cf7c18cf1b6fcfe98d64b0602b71a:firefox/distribution.ini
+f:73472eae5b4777be69fb33cc08441db0:firefox/icu74.patch
+f:7dff0d027a1f55c901d29a89d03edeae:firefox/Pkgfile
+f:89013cff67629cdbe6a2226313f0f6cb:firefox/.footprint
+f:63979707732db7fb9309adebd178ae3d:firefox/.signature
+f:d8743848c9164555d67d256814b91bd6:firefox/vendor.js
 f:6cdc24fecc99592f883f5a3ffc8a4f3a:babl/Pkgfile
 f:cfd1ef8ad6337a2a927f5170f8ac7cc4:babl/.footprint
 f:6217c26a31494d24dd3d8823e82b1928:babl/.signature
