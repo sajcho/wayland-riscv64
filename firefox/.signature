@@ -1,0 +1,9 @@
+untrusted comment: verify with wayland-riscv64.pub
+RWRQc0O8IT+82XW+L2UhAPU1u+yDhtAMm83snky/6Y0Vg2RHM9l8mtHNmBo05bPi0DzIpYdKiZDb/vpTUxhBrIkULlw/buBx9gY=
+SHA256 (Pkgfile) = f2a80fea168657d737513d02a13068203d0167e37bf2f9cc5a624ff945cd3065
+SHA256 (.footprint) = 3831b102e4617f779d6787e7958f60a0fc39d5503f2b78db01373aa2ede3efcf
+SHA256 (firefox-122.0.source.tar.xz) = b84815a90e147965e4c0b50599c85b1022ab0fce42105e5ef45c630dcca5dec3
+SHA256 (icu74.patch) = 83f4ea4cb5b89f81bfc9f42cc3d3f16e4df8bf3a2c9f0c27e90032c759a2ab86
+SHA256 (distribution.ini) = c39e92f2ef5b67be4307fcb789f93af393288e8052234b54c798ea33bb9acbd3
+SHA256 (firefox.desktop) = 8ba3439f3dfc5cab883641969c93d8d15f8f20d7188d9568346b2edad52d6f91
+SHA256 (vendor.js) = ceadf102b784b0b494caf15d60351f0a803a3d1dc3b6c892705b3fdebec57a48
