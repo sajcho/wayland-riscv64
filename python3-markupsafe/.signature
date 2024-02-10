@@ -1,5 +1,5 @@
 untrusted comment: verify with wayland-riscv64.pub
-RWRQc0O8IT+82UU1+lYGylRHmyFrXdOi/fVqrQfVAV4dRjNMKyAO4SgF2qCQxGNnp6ha2Bofs9C+iO6GTWCaQO3UexJPUV3rqg8=
-SHA256 (Pkgfile) = a5a5b9c1fba45d96a3f34de8f50f49b7de64e173577cabff73e2af03a584564d
-SHA256 (.footprint) = ca45d648a88d5800170042add9fa1c0177257440e8b5b10a8de59ffeb3e75416
-SHA256 (MarkupSafe-2.1.4.tar.gz) = 3aae9af4cac263007fd6309c64c6ab4506dd2b79382d9d19a1994f9240b8db4f
+RWRQc0O8IT+82ROZPWxEBVzS25BpiLhPg0IWmjXfAukl1bat+ZvhoYY1VzEk+Ga71GcRLLHbGeKjkLXfdSaUSPqhTz618jc2Wg0=
+SHA256 (Pkgfile) = 23919b61adbf1519c7bcb7caa632e15b83f027caead550e20ed93b6cf63294a8
+SHA256 (.footprint) = 4dcae0093a966b50d05cbbf5480524030c4ac6df11485b6a01f8b33a0b4e51dd
+SHA256 (MarkupSafe-2.1.5.tar.gz) = d283d37a890ba4c1ae73ffadf8046435c76e7bc2247bbb63c00bd1a709c6544b
