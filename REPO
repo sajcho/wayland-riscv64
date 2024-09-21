@@ -20,9 +20,9 @@ f:d8743848c9164555d67d256814b91bd6:firefox/vendor.js
 f:0422c671bd83104aaa6217c8ca3ef3db:babl/Pkgfile
 f:852dee8a9b949bf4a4011c070c556a43:babl/.footprint
 f:85fbdcc74b9b276e830430889a4653f4:babl/.signature
-f:67887ddaee28f394bff07e2c1dc72912:python3-markupsafe/Pkgfile
-f:8f22d5ff23a3e7dc3f98807b92d483a4:python3-markupsafe/.footprint
-f:5fb34f082169d418197b94b625689425:python3-markupsafe/.signature
+f:91fc7d90a6cdaa60b3d4856832aae2b0:python3-markupsafe/Pkgfile
+f:c79ad47581099f219d96003d4c8778c2:python3-markupsafe/.footprint
+f:1451327fe39addc5266a960376bfc1f4:python3-markupsafe/.signature
 f:8475fc16a1f97d507eebab3ed3ea6288:gegl/Pkgfile
 f:bd391d6ec86f22468a0dd389f5cc5ef8:gegl/.footprint
 f:b1e534cd089fe25c7bec2f9a2a39ca5c:gegl/.signature
